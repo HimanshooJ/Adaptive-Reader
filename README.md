@@ -176,7 +176,7 @@ If you'd like to improve the project, feel free to open an issue or submit a pul
 
 ## License
 
-This isn't License under any regulatory body
+This project is licensed under the MIT License.
 ---
 
 ## Acknowledgements
